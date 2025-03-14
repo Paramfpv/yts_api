@@ -1,0 +1,4 @@
+Flask
+langchain_mistralai
+youtube_transcript_api
+python-dotenv
